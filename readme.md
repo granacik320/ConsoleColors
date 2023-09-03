@@ -17,12 +17,12 @@ Just use a CDN
 
 ## Usage
 
-```
+```javascript
 console.log(...gradient('add some text',"#cc4e4e","#e17d59"))
 ```
 ### Multi line gradients
 
-```
+```javascript
 console.log(...gradient([
     '██╗██████╗░',
     '╚═╝╚════██╗',
